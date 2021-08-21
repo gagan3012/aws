@@ -28,7 +28,7 @@ Launching EC2 instances is not much work, but the first time you launch an insta
 * Start by navigating to the EC2 management console by clicking **Services** in the top menu, then selecting **EC2** under **Compute**.
 * Click on **Launch Instance**
 * Select the *Amazon Linux 2 AMI (HVM), SSD Volume Type*, make sure it is marked with "Free tier eligible."
-* Select the **t3.micro** instance type - again, make sure it is marked with "Free tier eligible."
+* Select the **t2.micro** instance type - again, make sure it is marked with "Free tier eligible."
 * Click on **Next: Configure Instance Details** - NOT Review and Launch, as we need to configure some options in the next few pages.
 
 
